@@ -1,13 +1,15 @@
 import { ScreenContent } from 'components/ScreenContent';
-import { StatusBar } from 'expo-status-bar';
 
 import './global.css';
+import { SafeAreaView, StatusBar } from 'react-native';
 
 export default function App() {
   return (
-    <>
-      <ScreenContent title="Home" path="App.tsx" />
-      <StatusBar style="auto" />
-    </>
+    <SafeAreaView
+      className='flex-1 bg-red-200'
+    >
+      <ScreenContent title="Smart Burrito" path="App.tsx" />
+      <StatusBar barStyle='default' />
+    </SafeAreaView>
   );
 }
