@@ -1,4 +1,4 @@
-# 🚌 Smart Burrito - Seguimiento de Buses en la UNMSM
+# 🚌 Samrt Burrito: Viaja seguro y cómodo dentro de la UNMSM
 
 **Smart Burrito** es una aplicación móvil diseñada para que los estudiantes de la **Universidad Nacional Mayor de San Marcos (UNMSM)** puedan **visualizar en tiempo real la ubicación de los buses internos** del campus. Esta solución tecnológica mejora la movilidad dentro de la universidad, permitiendo una mejor planificación de los traslados.
 
